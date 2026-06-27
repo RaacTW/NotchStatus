@@ -1,0 +1,5 @@
+# Aşağıdaki kullanıcı adlarını KENDİ hesaplarınla değiştir (kullanmadığını sil).
+github: []                       # örn: [seninKullaniciAdin]  -> GitHub Sponsors
+ko_fi:                           # örn: seninKofiAdin          -> ko-fi.com/seninKofiAdin
+buy_me_a_coffee:                 # örn: seninBmcAdin           -> buymeacoffee.com/seninBmcAdin
+custom: []                       # örn: ["https://gumroad.com/l/claudenotch"]  -> DMG satışı

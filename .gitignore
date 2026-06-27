@@ -1,0 +1,18 @@
+# Build çıktıları
+NotchStatus.app/
+NotchStatus.dmg
+notchapp
+gen-icon
+icon_*.png
+*.iconset/
+dmg-stage/
+
+# macOS
+.DS_Store
+
+# Marketing görselleri (Gumroad/sunum)
+gumroad-cover.png
+promo-*.png
+
+dist/
+NotchStatus.zip
